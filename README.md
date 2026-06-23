@@ -6,9 +6,9 @@ A curated collection of skill files, prompts, workflows, and resources that I ha
 
 | Title | Description | Link |
 |---------|-------------|------|
-| vercel-react-best-practices | React and Next.js performance optimization across 70 rules prioritized by impact. | [View File](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices) |
-| Example Skill 2 | Another short summary of the skill's purpose and value. | [View File](./path/to/file2.md) |
-| Example Skill 3 | Notes about when to use this skill or what problem it solves. | [View File](./path/to/file3.md) |
+| vercel-react-best-practices | React and Next.js performance optimization across 70 rules prioritized by impact. | [View](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices) |
+| Example Skill 2 | Another short summary of the skill's purpose and value. | [View](./path/to/file2.md) |
+| Example Skill 3 | Notes about when to use this skill or what problem it solves. | [View](./path/to/file3.md) |
 
 ---
 
@@ -16,4 +16,4 @@ A curated collection of skill files, prompts, workflows, and resources that I ha
 
 | Title | Description | Link |
 |---------|-------------|------|
-| Skill Name | One or two sentence summary of the skill, its purpose, and why it is valuable. | [View File](./path/to/file.md) |
+| Skill Name | One or two sentence summary of the skill, its purpose, and why it is valuable. | [View](./path/to/file.md) |
