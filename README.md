@@ -7,8 +7,7 @@ A curated collection of skill files, prompts, workflows, and resources that I ha
 | Title | Description | Link |
 |---------|-------------|------|
 | vercel-react-best-practices | React and Next.js performance optimization across 70 rules prioritized by impact. | [View](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices) |
-| claude-council | Another short summary of the skill's purpose and value. | [View](https://github.com/hex/claude-council) |
-| Example Skill 3 | Notes about when to use this skill or what problem it solves. | [View](./path/to/file3.md) |
+| claude-council | Claude Code plugin that asks several AI coding agents the same question and shows their answers side by side. | [View](https://github.com/hex/claude-council) |
 
 ---
 
